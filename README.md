@@ -1,25 +1,25 @@
 #  React App using simple routing
 
-![image](https://user-images.githubusercontent.com/68782268/137938017-2a97ed30-2ca7-4db5-94a5-94ca1e4e54bd.png)
+![image](https://user-images.githubusercontent.com/68782268/137939526-9c48c09d-b1f0-4c7e-8d90-0a8bb40d62ea.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938222-89366052-4ff3-4875-bb35-14d883a04751.png)
+![image](https://user-images.githubusercontent.com/68782268/137939698-6ca0f6d6-aef6-43b0-b574-9e1a095ee1de.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938321-47f396e1-dd9f-44b1-9f9e-649e88e8d818.png)
+![image](https://user-images.githubusercontent.com/68782268/137939585-944b12d9-2eb1-432e-9a7b-3dcbb27254f5.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938471-cbf071c7-30eb-4e63-bbfa-b4236c6024dc.png)
+![image](https://user-images.githubusercontent.com/68782268/137939785-bceaf3c8-2de7-4d09-8b09-b9be546d4edd.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938588-0546f74c-d4a7-4e60-8463-d41626ea77af.png)
+![image](https://user-images.githubusercontent.com/68782268/137939849-eb54ff3c-7c25-4441-aa1f-1dade9e471d3.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938657-fd9c099f-2b55-4759-97ac-bef739123a3c.png)
+![image](https://user-images.githubusercontent.com/68782268/137939933-e3bfecb4-dde8-4879-9606-1d0b25f589c0.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938723-ed30d124-c359-423e-8bee-fb224937d1d3.png)
+![image](https://user-images.githubusercontent.com/68782268/137939997-fcce1d8a-fd0a-4434-aeee-b47b187b5c8c.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938769-ff26c5b0-4bb6-408e-9116-5b1788c17f5c.png)
+![image](https://user-images.githubusercontent.com/68782268/137940075-aef071ad-755f-44f0-844d-131178dea473.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938847-dbdc0230-d1e0-4de6-bfa1-d314fa04887c.png)
+![image](https://user-images.githubusercontent.com/68782268/137940121-4f009ba7-ecd8-48f0-9a65-b6c00f0d00f9.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938923-27684174-d41d-4301-a9e3-a8f969bf50b4.png)
+![image](https://user-images.githubusercontent.com/68782268/137940185-ecf645f1-1017-4328-90d0-e6c4514c4c86.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137938976-e36866b1-95e0-4f7a-a026-5cedb2dbd234.png)
+![image](https://user-images.githubusercontent.com/68782268/137940252-f292cbcd-642a-4192-ad34-acc841fd940a.png)
 
-![image](https://user-images.githubusercontent.com/68782268/137939038-91e68705-1673-46dc-88d6-dd068ccabc58.png)
+![image](https://user-images.githubusercontent.com/68782268/137940308-073d1adf-323d-4389-bf4b-294792380805.png)
