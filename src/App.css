@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  text-align: center;
+}
+
+.mx-auto{
+  text-align: center;
+}
+
+.container{
+  background-color:rgb(185, 210, 241);
+  color: black;
+  font-size: large;
+}
